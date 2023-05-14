@@ -6,4 +6,4 @@ Multiple Pre-trained word embeddings models were used in combination with Machin
 Chosen (best performing) combination of models (PWE+ML) will be used in pipeline to geolocalize affiliations.
 
 #
-*Once the thesis is publibly available, the link will be here*
+*Once the thesis is publicly available, the link will be here*
