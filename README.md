@@ -1,4 +1,4 @@
-# This repository was created as a part of my diploma thesis
+# This repository was created as a part of my diploma thesis.
 For transparency all codes, and additionally graphs, tables, etc. used in my diploma thesis are shared via this repo.
 
 ### What and why?
