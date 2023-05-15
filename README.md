@@ -7,3 +7,7 @@ Chosen (best performing) combination of models (PWE+ML) will be used in pipeline
 
 #
 *Once the thesis is publicly available, the link will be here*
+
+
+#
+Some models require you to download them from referenced sites.
