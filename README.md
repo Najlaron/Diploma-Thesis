@@ -1,5 +1,5 @@
-# This repository was created as part of my diploma thesis
-For transparency all codes, graphs, tables, etc. used in my diploma thesis are shared via this repo.
+# This repository was created as a part of my diploma thesis
+For transparency all codes, and additionally graphs, tables, etc. used in my diploma thesis are shared via this repo.
 
 ### What and why?
 Multiple Pre-trained word embeddings (PWE) models were used in combination with Machine learning (ML) models to evaluate their performance on the task of identifiyng parts of affiliations.
