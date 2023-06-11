@@ -7,7 +7,7 @@ Chosen (best performing) combination of models (PWE+ML) will be used in pipeline
 
 
 # Thesis
-*Once the thesis is publicly available, the link will be here*
+https://theses.cz/id/9j5nqg/?isshlret=Machine%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dmachan%20machine%26start%3D1 
 ## Name:
 Performance evaluation of Machine Learning approaches for identifying parts of scientific affiliations.
 ## Abstract:
